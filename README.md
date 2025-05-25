@@ -41,3 +41,11 @@ echo DB_USER=admin > /var/www/html/.env
 echo DB_PASS=P4ssw0rd123 >> /var/www/html/.env
 echo DB_NAME=psat2425 >> /var/www/html/.env
 echo DB_HOST=psat2425.ck0pitmttnal.us-east-1.rds.amazonaws.com >> /var/www/html/.env
+
+```
+## 4. Jalankan
+Jalankan dengan username dan password default berikut ini
+
+username = admin
+password = 123
+Kemudian inputkanlah data sesuai dengan datamu
