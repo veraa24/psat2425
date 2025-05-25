@@ -46,6 +46,6 @@ echo DB_HOST=psat2425.ck0pitmttnal.us-east-1.rds.amazonaws.com >> /var/www/html/
 ## 4. Jalankan
 Jalankan dengan username dan password default berikut ini
 
-username = admin
-password = 123
+username = admin <br>
+password = 123 <br>
 Kemudian inputkanlah data sesuai dengan datamu
